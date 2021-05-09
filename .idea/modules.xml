@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/McCounter.iml" filepath="$PROJECT_DIR$/McCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.Counter/com.Counter.iml" filepath="$PROJECT_DIR$/com.Counter/com.Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.Manager/com.Manager.iml" filepath="$PROJECT_DIR$/com.Manager/com.Manager.iml" />
+    </modules>
+  </component>
+</project>
